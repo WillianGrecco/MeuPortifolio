@@ -1,0 +1,41 @@
+h1{
+color: rgba(255, 255, 255, 0.659); 
+}
+
+h2{
+color: rgba(255, 255, 255, 0.659); 
+}
+
+h3{
+color: rgba(255, 255, 255, 0.659); 
+}
+
+body{
+background-color: hsla(0, 0%, 0%, 0.7)
+}
+
+.imageCars{
+width: 50%;
+}
+
+.imageArrow{
+width:50%;
+}
+
+.trex:hover{
+opacity:0.33;
+}
+
+.cars:hover{
+opacity:0.33; 
+}
+
+.archer:hover{
+opacity:0.33;    
+}
+
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-around;
+}
